@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: spmph2hm0-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/spmph2hm0-python
